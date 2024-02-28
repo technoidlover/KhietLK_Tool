@@ -49,4 +49,5 @@ NOTICE: For bypass work need install lastest verion Chrome
  - apt-get install ./google-chrome-stable_current_amd64.deb
        WINDOWS: python -m pip install undetected_chromedriver --upgrade
  Thread set 10-50 > work
+ERROR distutils: https://www.youtube.com/watch?v=-AoS5ns3JKE
 ```
